@@ -3,6 +3,23 @@
 
 ### Instalar GIT en sus equipos y registrarse en GitHub.
 
+Antes de sentarnos a trabajar, es necesario asegurarnos que contamos con todas las herramientas 
+necesarias. En este caso, es contar con Git instalado y tener una cuenta dentro de GitHub.
+
+#### Instalar Git
+
+Está perfectamente explicado en el capítulo 
+[Installing GIT](http://book.git-scm.com/2_installing_git.html) del 
+[GIT Community Book](http://book.git-scm.com/). Allí tendremos las instrucciones para hacerlo en 
+Linux, Windows y Mac Os.
+
+#### Registrarnos en GitHub
+
+Por suerte [registrarnos en GitHub](https://github.com/signup/free) es muy sencillo y, además,
+gratis. Podremos contar con repositorios ilimitados y colaboradores ilimitados siempre y cuando 
+nuestros proyectos sean Open Source. Si queremos mantener privado nuestro código, GitHub 
+[cuenta con distintos planes](https://github.com/plans).
+
 ### Realizar un fork del proyecto.
 
 Al comienzo, es necesario realizar un `fork` del proyecto. Esto es tan simple como acceder a la URL
@@ -65,5 +82,11 @@ branch que hayan creado para tal fin).
 *	Chequear en el Tab `Files Changed` que los cambios introducidos son los que se esperan.
 	Si quieren, en este tab pueden dejar comentarios en las lineas modificadas.
 
+Este es básicamente el proceso. Si aún quedan con ganas de seguir leyendo más al respecto sobre Pull
+Requests, entonces no hay nadie que lo [explique mejor que GitHub](http://help.github.com/send-pull-requests/).
 
+### Eso es todo por ahora
 
+Luego de realizar el Pull Request, ya solo queda incluirlo en el Indice de PHP. Esto no debería
+tomar demasiado tiempo y hasta es posible que podamos charlar sobre algún pull request en particular
+utilizando GitHub como plataforma.
