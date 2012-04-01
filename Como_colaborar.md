@@ -6,14 +6,14 @@
 Antes de sentarnos a trabajar, es necesario asegurarnos que contamos con todas las herramientas 
 necesarias. En este caso, es contar con Git instalado y tener una cuenta dentro de GitHub.
 
-#### Instalar Git
+##### Instalar Git
 
 Está perfectamente explicado en el capítulo 
 [Installing GIT](http://book.git-scm.com/2_installing_git.html) del 
 [GIT Community Book](http://book.git-scm.com/). Allí tendremos las instrucciones para hacerlo en 
 Linux, Windows y Mac Os.
 
-#### Registrarnos en GitHub
+##### Registrarnos en GitHub
 
 Por suerte [registrarnos en GitHub](https://github.com/signup/free) es muy sencillo y, además,
 gratis. Podremos contar con repositorios ilimitados y colaboradores ilimitados siempre y cuando 
