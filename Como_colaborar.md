@@ -90,5 +90,3 @@ Requests, entonces no hay nadie que lo [explique mejor que GitHub](http://help.g
 Luego de realizar el Pull Request, ya solo queda incluirlo en el Indice de PHP. Esto no debería
 tomar demasiado tiempo y hasta es posible que podamos charlar sobre algún pull request en particular
 utilizando GitHub como plataforma.
-
-Esto se va en el próximo commit. Disculpen.
