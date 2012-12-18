@@ -1,5 +1,5 @@
 # Especificaciones para la Red Social DevNeed.
-
+ 
 ## Objetivos
 Vamos a aprender a programar en PHP creando una aplicación web concreta, una Red Social para desarrolladores.
 Esta red social, [DevNeed](http://devneed.com), contará con distintas etapas delimitadas por la funcionalidad
@@ -16,6 +16,7 @@ todo el código que realicemos.
  * Utilizaremos una Virtual Machine con Virtualbox.
  * Utilizar Vagrant para administrar la máquina virtual.
  * Utilizaremos Puppet para configurar la máquina virtual.
+ * Administración de versiones del código con GIT.
 
 ### Integración contínua
  * Instalación de un server Jenkins de CI
@@ -26,8 +27,8 @@ todo el código que realicemos.
 ### Selección de un Framework
  * Framework Si, Framework No. Qué framework utilizaremos.
  * Instalación y configuración.
- * 
-
+ * Crear una página de bienvenida y explicación del proyecto.
+ * Deploy del código con varios métodos. Capistrano.
 
 ## Primera Etapa : Usuarios
 Necesitamos usuarios en cualquier red social. Las distintas estrategias de captación de usuarios pueden
