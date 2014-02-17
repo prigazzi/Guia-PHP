@@ -36,14 +36,7 @@ facilitar este registro de manera de utilizar otras redes sociales para contar c
 únicas.
 
 ### Registro de usuarios
- * 
-
-
-
-
-
-
-* Registro de usuarios, asignandose Tags que representen sus skills y perfil (diseñador, programador,
+ * Registro de usuarios, asignandose Tags que representen sus skills y perfil (diseñador, programador,
   sysadmin, etc)
 * Vincular cuentas del desarrollador: Twitter, Facebook, LinkedIn, Github, etc.
 * Seguir usuarios entre si.
